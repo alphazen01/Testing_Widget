@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189277424580",
+    "project_id": "googel-signin-c04c1",
+    "storage_bucket": "googel-signin-c04c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189277424580:android:0f6db54ee89d965ef83291",
+        "android_client_info": {
+          "package_name": "com.example.widget_testing2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvW5lrS9_xO-ipPk0kNlBCv8VvBYpRREE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
